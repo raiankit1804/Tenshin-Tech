@@ -45,7 +45,7 @@ html, body {
 }
 
 .page1{
-    background-image:url("back final.gif");
+    background-image:url("images/back final.gif");
     min-height: 100vh;
     width: 100%;
     position: relative;
