@@ -1,1 +1,1 @@
-# Tension-Tech
+# Tenshin-Tech
